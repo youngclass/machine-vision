@@ -1,1 +1,7 @@
+title: [杨老师的网上课堂]
+description: [Young’s class resources]
+
 theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji
